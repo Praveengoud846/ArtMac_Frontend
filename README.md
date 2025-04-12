@@ -24,8 +24,15 @@ DELETE /tasks/{id} — delete a task
 GET /tasks/status/{status} — filter tasks by status
 
 # Tech Stack
-React 18
+React
 Axios
 React Router DOM
 CSS Modules (optional)
 Spring Boot (backend)
+
+Install dependencies:
+npm install
+
+# Start the app:  npm start
+
+The app will run at: http://localhost:3000
